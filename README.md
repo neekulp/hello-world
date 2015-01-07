@@ -1,4 +1,7 @@
 # hello-world
-My first repo
-This README.md file has been created to make sure the humans 'get' me.
-This is the README.md file for my first repo 'hello-world'
+==============
+
+Hi Humans!
+
+Hubot here, I like Node.js and CoffeeScript (Thats what I'm made of!).
+I've had tacos on the moon and find them far superior to Earth tacos.
